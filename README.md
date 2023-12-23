@@ -15,7 +15,7 @@ SecretFlow.version = 1.0.0<br>
 Python.version = 3.8.17<br>
 All the experiments are conducted in the federated environment on five nodes, one as a server and the other four as clients, each equipped with two Intel(R) Xeon(R) CPU E5-2650 v4@2.20GHz 12-core processors, 128GB of RAM, and an internet speed of 100MB/s.
 
-## Datasetss
+## Dataset
 
 We give a small dataset of Gowalla for running with 'gowalla_small.csv', while other datasets used can be downloaded in the paper.
 
