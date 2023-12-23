@@ -17,8 +17,7 @@ All the experiments are conducted in the federated environment on five nodes, on
 
 ## Dataset
 
-We give a small dataset of Gowalla for running with 'gowalla_small.csv'. Other datasets used can be
-downloaded in the paper.
+We give a small dataset of Gowalla for running with 'gowalla_small.csv', while other datasets used can be downloaded in the paper.
 
 ## Complication
 
